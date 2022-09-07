@@ -14,14 +14,16 @@
 <br>
 
 ```
-function loveProgramming {
+Code In JavaScript:
 
-  let person = "Ruben Costa";
-  let love = "loves to program! It's more than a hobby, more than a job is my Daily Fun!";
+  function loveProgramming {
+
+    let person = "Ruben Costa";
+    let love = "loves to program! It's more than a hobby, more than a job is my Daily Fun!";
   
-  console.log(person + " " + love);
+    console.log(person + " " + love);
 
-}
+  }
 ```
 <br>
 
