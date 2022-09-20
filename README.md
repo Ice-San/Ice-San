@@ -24,6 +24,8 @@ Code In JavaScript:
     console.log(person + " " + love);
 
   }
+  
+  loveProgramming()
 ```
 <br>
 
