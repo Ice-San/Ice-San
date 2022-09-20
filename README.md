@@ -16,7 +16,7 @@
 ```
 Code In JavaScript:
 
-  function loveProgramming {
+  function loveProgramming() {
 
     let person = "Ruben Costa";
     let love = "loves to program! It's more than a hobby, more than a job is my Daily Fun!";
