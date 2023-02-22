@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Ruben Costa!
 
-<img src="https://media.discordapp.net/attachments/848931741984227358/1017041885770039316/unknown.png?width=1440&height=233">
+<img src="https://media.discordapp.net/attachments/1058056696917921792/1058063551589253220/KanjiSanBanner.png">
 
 > **Banner Credits:** Banner created by Suki#3601 ( Discord Nick and Hastag ) for me!
 
