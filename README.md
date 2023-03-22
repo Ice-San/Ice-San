@@ -2,8 +2,6 @@
 
 <img src="https://media.discordapp.net/attachments/1058056696917921792/1058063551589253220/KanjiSanBanner.png">
 
-> **Banner Credits:** Banner created by Suki#3601 ( Discord Nick and Hastag ) for me!
-
 ## 💭 About Me
 
 <p>An optimistic and hardworking person! Despite being a bit lazy at times. I have knowledge of Web Development and study to be able to learn more and improve my skills in this area. In my free time I like to watch <b>Movies/Series</b> and <b>play Video Games!</bold></p>
