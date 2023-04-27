@@ -1,6 +1,6 @@
 # 👋 Hi! I'm Ruben Costa!
 
-<img src="https://media.discordapp.net/attachments/1058056696917921792/1058063551589253220/KanjiSanBanner.png">
+<img src="https://media.licdn.com/dms/image/D4D16AQFOan0Q1TSZIA/profile-displaybackgroundimage-shrink_350_1400/0/1682590614173?e=1687996800&v=beta&t=_Z_gpe6HeF7VDbPIuhfTuPLSAH93P5mlPLT3uznVbks">
 
 ## 💭 About Me
 
