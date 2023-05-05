@@ -29,4 +29,4 @@ Code In JavaScript:
 
 <hr></hr>
 
-[🏠 My WebPage](https://icesan.carrd.co/) | [💬 My Discord Community](https://discord.gg/dczCW2Ezfj) | [📷 Instagram](https://www.instagram.com/rubencosta_2004/)
+[🏠 WebPage](https://ice-san.github.io/my-portfolio/) | [💬 My Discord Community](https://discord.gg/dczCW2Ezfj) | [📷 Instagram](https://www.instagram.com/rubencosta_2004/)
