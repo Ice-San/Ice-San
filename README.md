@@ -1,5 +1,3 @@
-# 👋 Hi! I'm Ruben Costa!
-
 <img src="https://media.licdn.com/dms/image/D4D16AQFuvq2WraRFIA/profile-displaybackgroundimage-shrink_350_1400/0/1683796189327?e=1690416000&v=beta&t=tFKm726iBiM0B3XHUa-mevxSUVUg0beTl-e8g_uUXpM">
 
 ## 💭 About Me
