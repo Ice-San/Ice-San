@@ -27,4 +27,4 @@ Code In JavaScript:
 
 <hr></hr>
 
-[🏠 WebPage](https://ice-san.github.io/my-portfolio/) | [💬 My Discord Community](https://discord.gg/dczCW2Ezfj) | [📷 Instagram](https://www.instagram.com/rubencosta_2004/)
+[🏠 WebPage](https://ice-san.github.io/my-portfolio/) | [💼 Linkdin](https://www.linkedin.com/in/ruben-costa-0b4633254/) | [📷 Instagram](https://www.instagram.com/rubencosta_2004/)
