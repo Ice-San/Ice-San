@@ -1,4 +1,4 @@
-<img src="[https://media.discordapp.net/attachments/1054423219228131398/1218704544431603852/linkdin_banner.png?ex=6608a20d&is=65f62d0d&hm=48452aa7bf474cbfe894212b87cfe5de07b21ae72bf7dccbd18ca9fe6266b8ac&=&format=webp&quality=lossless&width=1440&height=360]">
+<img src="https://media.discordapp.net/attachments/1054423219228131398/1218704544431603852/linkdin_banner.png?ex=6608a20d&is=65f62d0d&hm=48452aa7bf474cbfe894212b87cfe5de07b21ae72bf7dccbd18ca9fe6266b8ac&=&format=webp&quality=lossless&width=1440&height=360">
 
 ## 💭 About Me
 
