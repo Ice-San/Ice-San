@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQFuvq2WraRFIA/profile-displaybackgroundimage-shrink_350_1400/0/1683796189327?e=1690416000&v=beta&t=tFKm726iBiM0B3XHUa-mevxSUVUg0beTl-e8g_uUXpM">
+<img src="[https://media.licdn.com/dms/image/D4D16AQFuvq2WraRFIA/profile-displaybackgroundimage-shrink_350_1400/0/1683796189327?e=1690416000&v=beta&t=tFKm726iBiM0B3XHUa-mevxSUVUg0beTl-e8g_uUXpM](https://media.licdn.com/dms/image/D4D16AQGsXHTyFFtdlw/profile-displaybackgroundimage-shrink_350_1400/0/1710188929221?e=1715817600&v=beta&t=FLEbi0twuxnrAiF5Lt9dP-BdkMQyWiLelHBDvyCBdFw)">
 
 ## 💭 About Me
 
