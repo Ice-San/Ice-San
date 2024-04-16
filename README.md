@@ -1,4 +1,4 @@
-<img src="https://media.discordapp.net/attachments/1054423219228131398/1218704544431603852/linkdin_banner.png?ex=6608a20d&is=65f62d0d&hm=48452aa7bf474cbfe894212b87cfe5de07b21ae72bf7dccbd18ca9fe6266b8ac&=&format=webp&quality=lossless&width=1440&height=360">
+<img src="https://media.licdn.com/dms/image/D4D16AQGsXHTyFFtdlw/profile-displaybackgroundimage-shrink_200_800/0/1710188929221?e=2147483647&v=beta&t=MwVWCUUKANSD6FVEWG4kvLutBktWjHXfM_zFG_KAx6o">
 
 ## 💭 About Me
 
@@ -6,6 +6,13 @@
 
 - 🎓 | Studying IT on [ETPS](https://www.etps.pt/)
 - 👨‍💻 | Studying **WEB DEVELOPMENT**.
+
+<br>
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=ice-san&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=ice-san&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5" height="200" alt="streak graph"  />
+</div>
 
 <br>
 
@@ -23,8 +30,38 @@ Code In JavaScript:
   
   loveProgramming()
 ```
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/ice-san/ice-san/output/snake.svg" alt="Snake animation" />
+
+<br>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
 <br>
 
 <hr></hr>
 
-[🏠 WebPage](https://ice-san.github.io/my-portfolio/) | [💼 Linkdin](https://www.linkedin.com/in/ruben-costa-0b4633254/) | [📷 Instagram](https://www.instagram.com/rubencosta_2004/)
+<div align="left">
+  <a href="https://www.linkedin.com/in/ruben-costa-0b4633254/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/rubencosta_2004/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+</div>
+
+<br>
+
+* 🖥️  See my portfolio, [Ckick here!](http://dev.ruben-costa.com)
