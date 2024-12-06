@@ -5,7 +5,7 @@
 <p>An optimistic and hardworking person! Despite being a bit lazy at times. I have knowledge of Web Development and study to be able to learn more and improve my skills in this area. In my free time I like to watch <b>Movies/Series</b> and <b>play Video Games!</bold></p>
 
 - 🎓 | Studying IT on [IPCB](https://www.ipcb.pt/)
-- 👨‍💻 | AIMING to Become a **Full Stacks Dev**!
+- 👨‍💻 | Aiming to Become a **Full Stacks Dev**!
 
 <br>
 
@@ -31,7 +31,7 @@ Code In TypeScript:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" height="30" alt="NodeJS logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/node-js-icon-1817x2048-g8tzf91e.png" height="30" alt="NodeJS logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="30" alt="TypeScript logo"  />
   <img width="12" />
