@@ -4,8 +4,8 @@
 
 <p>An optimistic and hardworking person! Despite being a bit lazy at times. I have knowledge of Web Development and study to be able to learn more and improve my skills in this area. In my free time I like to watch <b>Movies/Series</b> and <b>play Video Games!</bold></p>
 
-- 🎓 | Studying IT on [ETPS](https://www.etps.pt/)
-- 👨‍💻 | Studying **WEB DEVELOPMENT**.
+- 🎓 | Studying IT on [IPCB](https://www.ipcb.pt/)
+- 👨‍💻 | AIMING to Become a **Full Stacks Dev**!
 
 <br>
 
@@ -17,30 +17,25 @@
 <br>
 
 ```
-Code In JavaScript:
+Code In TypeScript:
 
-  function loveProgramming() {
-
-    let person = "Ruben Costa";
-    let love = "loves to program! It's more than a hobby, more than a job is my Daily Fun!";
+  const loveProgramming = (person: string, love: string) => {
+    console.log(`${person} ${love}`);
+  };
   
-    console.log(person + " " + love);
-
-  }
-  
-  loveProgramming()
+  loveProgramming("Ruben", "loves to program! It's more than a hobby, more than a job is my Daily Fun!");
 ```
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="30" alt="html5 logo"  />
+  <img src="https://static-00.iconduck.com/assets.00/react-icon-2048x1822-pl7n9jcw.png" height="30" alt="React logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="30" alt="javascript logo"  />
+  <img src="https://w7.pngwing.com/pngs/452/24/png-transparent-js-logo-node-logos-and-brands-icon-thumbnail.png" height="30" alt="NodeJS logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/2048px-Typescript_logo_2020.svg.png" height="30" alt="TypeScript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-8-1175119.png?f=webp" height="30" alt="PostgreSQL logo"  />
 </div>
 
 <br>
@@ -58,4 +53,4 @@ Code In JavaScript:
 
 <br>
 
-* 🖥️  See my portfolio, [Ckick here!](http://dev.ruben-costa.com)
+* 🖥️  See my portfolio, [Click here!](http://dev.ruben-costa.com)
