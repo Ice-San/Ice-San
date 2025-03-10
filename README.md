@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/D4D16AQGsXHTyFFtdlw/profile-displaybackgroundimage-shrink_200_800/0/1710188929221?e=2147483647&v=beta&t=MwVWCUUKANSD6FVEWG4kvLutBktWjHXfM_zFG_KAx6o">
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQF3fdHc3i2leA/profile-displaybackgroundimage-shrink_350_1400/B4DZUFr2WBG8Ac-/0/1739557138599?e=1747267200&v=beta&t=MkbbYFIBND5qmuNPaXRwV0nC37NevUeOYORHcGSAJXU" alt="">
 
 ## 💭 About Me
 
@@ -50,7 +50,3 @@ Code In TypeScript:
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
-
-<br>
-
-* 🖥️  See my portfolio, [Click here!](http://dev.ruben-costa.com)
